@@ -4,7 +4,8 @@
 using namespace std;
 
 int main()
-{   int n,r,s,d;
+{   cout<<"cheacking"<<endl;
+    int n,r,s,d;
     SortedType<int> p;
     cout<<"Insert four item"<<endl;
     for(int index=0;index<4;index++)
